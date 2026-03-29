@@ -1,4 +1,4 @@
 Beginner Question-> Reverse Linked List
 
-<img width="1917" height="1005" alt="Screenshot 2026-03-29 113158" src="https://github.com/user-attachments/assets/f5e86c90-ad00-4881-b23d-72245b6add06" />
-<img width="946" height="818" alt="Screenshot 2026-03-29 113338" src="https://github.com/user-attachments/assets/0e9ec4da-3505-4e2f-beb9-b5ea3ad13ea7" />
+<img width="1907" height="887" alt="Screenshot 2026-03-29 113844" src="https://github.com/user-attachments/assets/d54cbbb3-201f-44af-8a17-2b94a425f593" />
+<img width="599" height="729" alt="Screenshot 2026-03-29 113849" src="https://github.com/user-attachments/assets/ab23d0c3-1228-4de1-a772-0142734a8c8d" />
